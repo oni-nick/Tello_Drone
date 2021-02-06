@@ -1,24 +1,24 @@
 # Tello_Drone
-## Drone Programming with Python SDK
-### Python SDK(named djitellopy) is made by DJI for tello drone
+### > Drone Programming with Python SDK
+### > Python SDK(named djitellopy) is made by DJI for tello drone
  
-# Project 1 : Surveilence 
+#### Project 1 : Surveilence 
 
 
 
 
-# Project 2 : Mapping 
+#### Project 2 : Mapping 
 
 
 
 
 
-# Project 3 : Face Tracking 
+#### Project 3 : Face Tracking 
 
 
 
 
-# Project 4 : Line Follower 
+#### Project 4 : Line Follower 
 
 
 
